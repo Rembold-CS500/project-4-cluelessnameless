@@ -1,0 +1,38 @@
+????
+22
+35
+MMMMM   MMMMM MM      
+ MMMMMMMMMMMMM M      
+     MMM MMMMMMM  M   
+  MM  MMMM M    MMMM  
+M        MM  M    MMM 
+M         M MMMMM   MM
+     M  MM MM MMMMM   
+  MM   M  M  MMMMMMMM 
+M   MM  MM  M  MM    M
+ MMM  MM  MM    M  M  
+   MMM  MM   M   MMMM 
+MMM  M    MM MM      M
+  MMM  MM  MM  M  MMMM
+M   MM   MM  M  MM M M
+MMM   MM  MM  M       
+  MMM   MM MM  M MMM  
+M   MMM      M  MM  M 
+MM    MM  MM  M  MM MM
+ MM    MM   M  M  M  M
+   MM    MM  M  M  M  
+MM   MMM  MM  M  M  M 
+ MM     MM  M  M  MM M
+   MM    MM  M  M  M  
+MM   MM   M   M  M  M 
+ MM   MM     M    M MM
+   MM   M     MMM    M
+ M  MMM  MM  M  MM  M 
+MM        M   M   M MM
+  MM   M   M   MM  M  
+   MMM  MM   M  MM  M 
+MM   MM   MM MM  MM MM
+ MMM  MM   M  MM  M   
+   MM   M   M  MM  M  
+M  MMM   M      MM  M 
+ MM  MM   MM  MM      

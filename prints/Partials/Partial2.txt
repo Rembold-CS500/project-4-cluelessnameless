@@ -1,0 +1,39 @@
+????
+31
+36
+M  M M  M M  M M  M  M  MM M  M
+M M  M M  M M  M MM M   M M  M 
+  M  M M M  M MM M  M M M MMMM 
+ MM M  M M M  M MM M MM MMM MM 
+ M  M M M  M MM M  M M   M  M M
+MM M  M M M  M  M M  M M M M M 
+M  M M  M M MM M  M M  M   M M 
+M MM M M MM    M MM M M M M    
+  M  M M M  M M  M  M M M   M M
+  M M M M  M  M  M M M  M M MMM
+ M  M M M  M M  M  M M M M     
+MM MM  MM M  M  M    M   M   M 
+M  M   M  M  M M  M M  M M   M 
+M M   MM MM M  M  M M M  M M M 
+M M   M  M  M MM M  M M M  MM  
+ MM   M MM M  M  M M  M M M M M
+  M  M  M MM  M  M M M  M M M M
+ M  MMMMM MM MM M  M M    M   M
+ M MM M   M  M  M MM M M   M   
+M     M M M  MM M M  M M M M M 
+M MM MM   M M  M MM M  M M M M 
+  M M  M M  M  M MM M M  M M M 
+ MM M  M M MM M  M  M M M  M   
+ M  M M  M M  MM M M  M M   M  
+MM M  M M  M  M  M M  M M M M M
+M MM  MMM MM M  M  M M  M   M M
+M MM    M M  M  MMMM M M  M M M
+ MM MM M  M MM MM M  M M  M M M
+ M  M  M M  M  M  M      M    M
+MM M  M  M  M  M  M M  M M    M
+M     M M  M  M  MM M  M M M  M
+M MM M  M  M  M  M  M M  MMM  M
+MM   M  M MM MM  M MM M MM M  M
+ M  MM M  MM M  MM M  M MM M  M
+MM  M  M    MM  M  M M  M M   M
+M  MM M  M  M  MM M  M M  M   M

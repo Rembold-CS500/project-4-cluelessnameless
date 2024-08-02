@@ -1,0 +1,5 @@
+# Project 4: Fingerprint Verification
+
+Modern security breaches have repeatedly showcased the perils of password based authentication. As a result, we have seen a more toward more unique forms of authentication, of which biometric identification is perhaps the most common. While such technology as palm scanners, iris readers, and voice analyzers are still restricted to ultra-secure facilities, more simple technologies have made their way to our everyday pieces of technology. Many laptops or phones now support facial unlock technology, and even more support fingerprint authentication. While it may seem simple to confirm that a face or fingerprint is the same as a stored image, there are complications. In the project you’ll seek to implement several authentication algorithms to confirm that two fingerprints are the same (or different). Along the way you’ll gain practice reading in data to a data structure and working with multiple indices.
+
+The full guide to this project can be found on the class website.
